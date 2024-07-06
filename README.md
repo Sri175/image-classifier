@@ -1,5 +1,3 @@
-# image-classifier
-classification of the images with and without helmet
 # Helmet Detection Image Classifier
 
 This project is an image classifier that categorizes images into two classes: with helmet and without helmet. The classifier is built using TensorFlow and Keras.
